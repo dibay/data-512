@@ -45,5 +45,6 @@ pageview_all_views (total number of the desktop and mobile view avaialable from 
 # Data analysis
 year and month were indexed  
 visualized the dataset as a time series graph
+The number of views on the y axis (x 10,000,000,000) shows the number of views.
 * Note: A new page view definition tool effect on May 2015. This change eliminated all crawler traffic. Red, green and brown mark new definition.
 
