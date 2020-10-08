@@ -10,7 +10,7 @@ Wikimedia's general Terms of Use: https://foundation.wikimedia.org/wiki/Terms_of
 License of the source data can be found here: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 
 # Link to relevant APIs:
-https://wikimedia.org/api/rest_v1/metrics/legacy/pagecounts/aggregate/{project}/{access-site}/{granularity}/{start}/{end}
+https://wikimedia.org/api/rest_v1/metrics/legacy/pagecounts/aggregate/{project}/{accesands-site}/{granularity}/{start}/{end}
 https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/{project}/{access}/{agent}/{granularity}/{start}/{end}
 
 # Gathering data: 
@@ -42,4 +42,5 @@ pagecount_all_views (total number of the desktop and mobile view avaialable from
 pageview_all_views (total number of the desktop and mobile view avaialable from pageview API)
 
 # Data analysis
-year and month were indexed and line chart of all the variables across year-month were plotted
+year and month were indexed  
+visualized the dataset as a time series graph
