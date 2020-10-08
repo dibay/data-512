@@ -19,6 +19,7 @@ The data was access using Legacy Pagecounts API (https://wikimedia.org/api/rest_
 For each API  data for all months where data is available were extracted. Data was as raw results into 5 separate JSON source data files available on the repository.
 
 * NOTE: Pageview API excludes spiders/crawlers, however data from the Pagecounts API does not
+* Note: A new page view definition tool effect on May 2015. This change eliminated all crawler traffic. In the graph described in the data analysis section, red, green and brown mark new definition.
 
 # Data processing
 All the json files were saved into excel files and then merged into one file. 
@@ -44,3 +45,5 @@ pageview_all_views (total number of the desktop and mobile view avaialable from 
 # Data analysis
 year and month were indexed  
 visualized the dataset as a time series graph
+* Note: A new page view definition tool effect on May 2015. This change eliminated all crawler traffic. Red, green and brown mark new definition.
+
