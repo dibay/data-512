@@ -14,7 +14,7 @@ https://wikimedia.org/api/rest_v1/metrics/legacy/pagecounts/aggregate/{project}/
 https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/{project}/{access}/{agent}/{granularity}/{start}/{end}
 
 # Gathering data: 
-The data was access using Legacy Pagecounts API (https://wikimedia.org/api/rest_v1/metrics/legacy/pagecounts/aggregate/{project}/{access-site}/{granularity}/{start}/{end}) and Pageviews API(https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/{project}/{access}/{agent}/{granularity}/{start}/{end}).
+The data was access using Legacy Pagecounts API (https://wikimedia.org/api/rest_v1/metrics/legacy/pagecounts/aggregate/{project}/{access-site}/{granularity}/{start}/{end}) from 200712-201608 and Pageviews API(https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/{project}/{access}/{agent}/{granularity}/{start}/{end} from 200712-202008
 
 For each API  data for all months where data is available were extracted. Data was as raw results into 5 separate JSON source data files available on the repository.
 
