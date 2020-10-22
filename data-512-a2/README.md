@@ -10,11 +10,11 @@ To investigate the gender inequality in crowdworker that annotated  Wikipedia Ta
 
 # Questions investigated:
 
-# Aggression dataset
+- Aggression dataset
 Q1- a) Is there gender inequality (e.g. more men than women) in the number of crowdworkers and how is it different from the general population?} b) Which gender annotates comments as more aggressive in the aggression datasets?
 
 
-# Toxicity dataset
+- Toxicity dataset
 Q2- Is there gender inequality (e.g. more men than women) in the number of crowdworkers who annotatedd the Wikipedia Talk corpus for Toxicity and how is it different from the general population?b) Which gender annotated comments as more toxic in the toxicity datasets?
 
 
