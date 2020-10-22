@@ -29,7 +29,7 @@ The distribution of men and women in both datasets (Aggression and Toxicity) are
 Labeling behavior by gender:
 <br>
 - Exploratory analysis shows that there is a difference on how women label comments compared to women. Based on the Graph.1 we can see that women are more prone to annotate the words as aggressive. Women about 20% women and men about 18% tend to annotate a comment as aggressive. Based on Graph.2 we can see that women about 16% and men about 14% tend to annotate a comment as aggressive.
-![Graph 1](/graph_1.png)
+![Graph 1](/data-512-a2/graph_1.png)
 
 <br>
 Comparing the results in two datasets:
