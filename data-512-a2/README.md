@@ -6,5 +6,5 @@
 To investigate the gender inequality in crowdworker that annotated  Wikipedia Talk corpus of thousands online discussion posts in two Aggression and Toxicity datasets. I wanted to look and see how the difference in this demographic variable could affect the models that are based on these annotations.
 
 # The two main questions that I asked are as follow:
-1- a) Is there gender inequality (e.g. more men than women) in the number of crowdworkers who annotatedd the Wikipedia Talk corpus for aggression  and how is it different from the general population?}$ $\text {b) Which gender annotates comments as more aggressive in the aggression datasets?
+1- a) Is there gender inequality (e.g. more men than women) in the number of crowdworkers who annotatedd the Wikipedia Talk corpus for aggression  and how is it different from the general population?}$ $\text {b) Which gender annotates comments as more aggressive in the aggression datasets? <br>
 2- a) Is there gender inequality (e.g. more men than women) in the number of crowdworkers who annotatedd the Wikipedia Talk corpus for Toxicity and how is it different from the general population?}$ $\text {b) Which gender annotated comments as more toxic in the toxicity datasets?
