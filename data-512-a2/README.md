@@ -39,3 +39,13 @@ Labeling behavior by gender:
 Comparing the results in two datasets:
 - Gender distribution difference exists in both datasets (more men than women among crowdworkers. 
 - Labeling behavior for aggression and toxicity is different when comparing men and women. 
+
+## Implications:
+Gender distribution difference exists in both datasets (more men than women represnts crowdworker). This is problematic because the crowdworker distribution does not follow the underlying gender distribution in the population.Labeling behavior for aggression and toxicity seems different comparing men and women. This furthur shows how building model based on data that are annotated mostly by men could be problematic. <br>
+<br>
+I investigated two datasets (aggression and toxicity) and in both of them I see that there is a gender bias in crowdworker who annotated the comments. An application like "Hot Topic" could act poorly and isolate topics that are relevant and important for women because the algorithm is trained based on a data in which women are significantly under-represented compared to the real world distribution of men and women. Other applications such as "Comment Filter" and "Wiki Detox" also could act poorly for the very same reason.
+<br>
+One main potential consequence would be that topics that are important and relevant to women will be disregarded (e.g. "Hot Topic") or applications such as "Comment Filter" that are meant to reduce toxicity cannot perform as well for women. The main reason is the disparity that exists in the gender distribution of the crowdworkers. I investigated gender distribution for Toxicity and Aggression and in both of them crowdworkers are mainly men. How men define toxicity and agression is very different from women, which affects how these algorithms could perform differently across genders. This may also adversely affect mental health equality. 
+<br>
+Using other sources to train the data would be one way. They can gather samples that are better representative of the general population to annotate different texts, and then use these annotations to train the ML models instead. 
+One important demographic information that is missing is ethnicity. People from different ethnic groups may have different experiences and define toxicity and aggression completely differently.
