@@ -20,7 +20,7 @@ Q2- Is there gender inequality (e.g. more men than women) in the number of crowd
 # Results:
 - Gender distribution:<br>
 The distribution of men and women in both datasets (Aggression and Toxicity) are biased. In both datasets number of men outweight the number of women. In the aggression dataset I found that th number of the men of the crowdworker annotators are more than women (1349 vs. 840).In other words only about 38% are women. In other words only about 38% are women. In the "Toxicity" dataset, the number of the men of the crowdworker annotators are more than women (2327 vs. 1263).In other words only about 35% are women.<br>
-|  | Count  ||
+| --- | Count | --- |
 | | Men | Women  |
 | --- | --- | --- |
 | Aggression dataset  |  | 840 |
