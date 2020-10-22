@@ -32,7 +32,6 @@ Labeling behavior by gender:
 <br>
 ![Graph 1](/data-512-a2/graph_1.png)
 
-<br>
 ![Graph 2](/data-512-a2/graph_2.png)
 <br>
 Comparing the results in two datasets:
