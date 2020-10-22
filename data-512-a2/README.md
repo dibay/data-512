@@ -14,7 +14,7 @@ Q1- a) Is there a difference in the number of men and women among the crowdworke
 
 
 - Toxicity dataset
-Q2- Is there a difference in the number of men and women among the crowdworkers who annotated the Wikipedia Talk corpus for Toxicity and how is it different from the general population? b) Which gender annotated comments as more toxic in the toxicity datasets?
+Q2- a) Is there a difference in the number of men and women among the crowdworkers who annotated the Wikipedia Talk corpus for Toxicity and how is it different from the general population? b) Which gender annotated comments as more toxic in the toxicity datasets?
 
 ## Results:
 - Gender distribution:<br>
